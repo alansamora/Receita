@@ -3,7 +3,7 @@ Serviço de receita desenvolvido para fins avaliativos visando obtenção do tí
 
 ## Arquitetura
 
-O Back-end concentra o coração da nossa aplicação. Foi desenvolvido um microsserviço responsável pelo domínio de receitas. Foi utilizado um conceito arquitetural chamado *Onion* em conjunto com o pradão *DDD (Domain Driven Design)*, onde destribuímos também dentro do próprio serviço responsabilidades individuais entre cada camada. E dentro da camada de aplicação onde se concentram as regras de negócio e a comuniação entre a camada de apresentação da camada de dados. Isso faz com as responsabilidades fiquem mais desacopladas facilitando também futuras implementações. 
+O Back-end concentra o coração da nossa aplicação. Foi desenvolvido um microsserviço responsável pelo domínio de receitas. Foi utilizado um conceito arquitetural chamado *Onion* em conjunto com o padrão *DDD (Domain Driven Design)*, onde destribuímos também dentro do próprio serviço responsabilidades individuais entre cada camada. E dentro da camada de aplicação onde se concentram as regras de negócio e a comuniação entre a camada de apresentação da camada de dados. Isso faz com as responsabilidades fiquem mais desacopladas facilitando também futuras implementações. 
 
 ## Tecnologias utilizadas
 
