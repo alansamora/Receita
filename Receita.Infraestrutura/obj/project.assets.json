@@ -239,11 +239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\137105\\Receita\\Receita\\Receita.Infraestrutura\\Receita.Infraestrutura.csproj",
+      "projectUniqueName": "C:\\Users\\137105\\Receita\\Receita.Infraestrutura\\Receita.Infraestrutura.csproj",
       "projectName": "Receita.Infraestrutura",
-      "projectPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.Infraestrutura\\Receita.Infraestrutura.csproj",
+      "projectPath": "C:\\Users\\137105\\Receita\\Receita.Infraestrutura\\Receita.Infraestrutura.csproj",
       "packagesPath": "C:\\Users\\137105\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.Infraestrutura\\obj\\",
+      "outputPath": "C:\\Users\\137105\\Receita\\Receita.Infraestrutura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -265,8 +265,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\137105\\Receita\\Receita\\Receita.Dominio\\Receita.Dominio.csproj": {
-              "projectPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.Dominio\\Receita.Dominio.csproj"
+            "C:\\Users\\137105\\Receita\\Receita.Dominio\\Receita.Dominio.csproj": {
+              "projectPath": "C:\\Users\\137105\\Receita\\Receita.Dominio\\Receita.Dominio.csproj"
             }
           }
         }

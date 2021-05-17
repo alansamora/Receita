@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZobhUeBezTJHtYEIVXkMQGE9qatKQLq4C8+joYdhC6ht4rPj6iHK3ucfjRo+6215XfZNqsW/z1WfhnovocaWcQ==",
+  "dgSpecHash": "kd/A2/0/VYAk5ku+Gt1gQTi2yVUqQGmgxCJJlPnGshHcF81OE48a3yEwH0pMSPci/p1oR98VY5a+E4DDZh1RUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\137105\\Receita\\Receita\\Receita.Dominio\\Receita.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\137105\\Receita\\Receita.Dominio\\Receita.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\137105\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

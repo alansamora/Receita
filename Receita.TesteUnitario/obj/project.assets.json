@@ -6279,11 +6279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\137105\\Receita\\Receita\\Receita.TesteUnitario\\Receita.TesteUnitario.csproj",
+      "projectUniqueName": "C:\\Users\\137105\\Receita\\Receita.TesteUnitario\\Receita.TesteUnitario.csproj",
       "projectName": "Receita.TesteUnitario",
-      "projectPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.TesteUnitario\\Receita.TesteUnitario.csproj",
+      "projectPath": "C:\\Users\\137105\\Receita\\Receita.TesteUnitario\\Receita.TesteUnitario.csproj",
       "packagesPath": "C:\\Users\\137105\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.TesteUnitario\\obj\\",
+      "outputPath": "C:\\Users\\137105\\Receita\\Receita.TesteUnitario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6305,17 +6305,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\137105\\Receita\\Receita\\Receita.Api\\Receita.Api.csproj": {
-              "projectPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.Api\\Receita.Api.csproj"
+            "C:\\Users\\137105\\Receita\\Receita.Api\\Receita.Api.csproj": {
+              "projectPath": "C:\\Users\\137105\\Receita\\Receita.Api\\Receita.Api.csproj"
             },
-            "C:\\Users\\137105\\Receita\\Receita\\Receita.Aplicacao\\Receita.Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.Aplicacao\\Receita.Aplicacao.csproj"
+            "C:\\Users\\137105\\Receita\\Receita.Aplicacao\\Receita.Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\137105\\Receita\\Receita.Aplicacao\\Receita.Aplicacao.csproj"
             },
-            "C:\\Users\\137105\\Receita\\Receita\\Receita.Dominio\\Receita.Dominio.csproj": {
-              "projectPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.Dominio\\Receita.Dominio.csproj"
+            "C:\\Users\\137105\\Receita\\Receita.Dominio\\Receita.Dominio.csproj": {
+              "projectPath": "C:\\Users\\137105\\Receita\\Receita.Dominio\\Receita.Dominio.csproj"
             },
-            "C:\\Users\\137105\\Receita\\Receita\\Receita.Infraestrutura\\Receita.Infraestrutura.csproj": {
-              "projectPath": "C:\\Users\\137105\\Receita\\Receita\\Receita.Infraestrutura\\Receita.Infraestrutura.csproj"
+            "C:\\Users\\137105\\Receita\\Receita.Infraestrutura\\Receita.Infraestrutura.csproj": {
+              "projectPath": "C:\\Users\\137105\\Receita\\Receita.Infraestrutura\\Receita.Infraestrutura.csproj"
             }
           }
         }
