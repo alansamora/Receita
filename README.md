@@ -9,7 +9,7 @@ O Back-end concentra o coração da nossa aplicação. Foi desenvolvido um micro
 
 ## Tecnologias utilizadas
 
-Todos os serviços são ASP.NET Core Web Application, utilizando versão 3.1. Para a comuniação com o banco de dados da Open API https://www.themealdb.com/api.php foi utilizado o httpclient para a comunicação entre as APIs visto que ela já fornece um vasto banco de dados de receitas.
+Para o serviço ASP.NET Core Web Application, utilizando versão 3.1. Para a comuniação com o banco de dados da Open API https://www.themealdb.com/api.php foi utilizado o httpclient para a comunicação entre as APIs visto que ela já fornece um vasto banco de dados de receitas.
 
 Testes unitários utilizando xUnit pela sua versatilidade e adaptabilidade com bibliotecas chaves como a *Moq*, facilidade de uso e conhecimento prévio. 
 
