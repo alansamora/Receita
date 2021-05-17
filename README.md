@@ -15,7 +15,7 @@ Testes unitários utilizando xUnit pela sua versatilidade e adaptabilidade com b
 
 ## Como Executar
 
-O serviço está configurado e documentado com o *Swagger*, então está disponível para acesso rodando pelas chamadas diretas nas APIs.
+O serviço está configurado e documentado com o *Swagger*, então está disponível para acesso pelas chamadas diretas na API.
 
  - Clone o repositório git, descompacte e abra o arquivo .sln (desejavel visual studio 2017 ou superior).
  - Ao carregar a solution, abra o solution explorer no canto direito da tela, nele será exibido todos os projetos da aplicação. Caso já não esteja, clique com o botão direito encima do receita.api e selecione "Set as Startup Project", isso definirá este como o projeto de execução.
